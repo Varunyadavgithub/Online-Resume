@@ -1,1 +1,27 @@
 @import "tailwindcss";
+
+/* 🌞 Light Theme */
+:root {
+  --bg: #f9fafb;
+  --bg-secondary: #ffffff;
+  --text: #111827;
+  --text-muted: #6b7280;
+  --border: #e5e7eb;
+  --primary: #4f46e5;
+}
+
+/* 🌙 Dark Theme */
+.dark {
+  --bg: #030712;
+  --bg-secondary: #111827;
+  --text: #f9fafb;
+  --text-muted: #9ca3af;
+  --border: #1f2933;
+  --primary: #818cf8;
+}
+
+html {
+  background-color: var(--bg);
+  color: var(--text);
+  transition: background-color 0.3s, color 0.3s;
+}
