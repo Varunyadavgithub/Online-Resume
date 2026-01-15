@@ -83,7 +83,7 @@ const Summary = ({ dashed }) => (
           </a>
 
           <a
-            href="https://instagram.com/thecyberdev"
+            href="https://instagram.com/thecyberdevvarun"
             target="_blank"
             rel="noreferrer"
           >
