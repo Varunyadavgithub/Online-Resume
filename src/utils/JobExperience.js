@@ -12,7 +12,7 @@ export const experienceData = [
     points: [
       "Designed, developed, and maintained web-based MES (Manufacturing Execution System) applications to support production, quality, dispatch, planning, and end-to-end traceability operations.",
       "Built modern MES tools using React.js, Node.js, Tailwind CSS, REST APIs, and SQL Server to replace legacy desktop systems and reduce manual paperwork.",
-      "Owned and managed the complete traceability system, ensuring real-time tracking of materials, processes, and finished goods for compliance and quality assurance.",
+      "Understanding and managing the complete traceability system, ensuring real-time tracking of materials, processes, and finished goods for compliance and quality assurance.",
       "Maintained and enhanced existing legacy MES applications to ensure stable performance across multiple production lines.",
       "Collaborated closely with engineers, operators, and cross-functional teams to gather requirements and implement process improvements.",
       "Ensured seamless data flow between shop-floor operations and centralized systems for real-time visibility and data-driven decision-making.",
